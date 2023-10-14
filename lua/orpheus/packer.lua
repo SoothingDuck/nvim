@@ -36,6 +36,9 @@ return require('packer').startup(function(use)
   -- vim-fugitive
   use('tpope/vim-fugitive')
 
+  -- nvim-repl
+  use('pappasam/nvim-repl')
+
   -- lsp-zero
   use {
 	  'VonHeikemen/lsp-zero.nvim',
