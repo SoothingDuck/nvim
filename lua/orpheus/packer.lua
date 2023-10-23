@@ -57,4 +57,7 @@ return require('packer').startup(function(use)
 	  }
   }
 
+  -- Nvim-R
+  use('jalvesaq/Nvim-R')
+
 end)
