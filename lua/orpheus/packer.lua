@@ -60,4 +60,7 @@ return require('packer').startup(function(use)
   -- Nvim-R
   use('jalvesaq/Nvim-R')
 
+  -- Slime
+  use('jpalardy/vim-slime')
+
 end)
