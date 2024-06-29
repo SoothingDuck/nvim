@@ -1,3 +1,3 @@
 return {
-  "jdonaldson/vaxe",
+  "SoothingDuck/vaxe",
 }
